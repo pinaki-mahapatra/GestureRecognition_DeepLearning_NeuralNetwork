@@ -12,3 +12,11 @@ Stop: Pause the movie
  
 
 Each video is a sequence of 30 frames (or images). In the next couple of lectures, our subject matter expert Snehansu will walk you through the structure of the dataset.
+
+To get started with the model building process, you first need to get the data on your storage. 
+
+In order to get the data on the storage, perform the following steps in order
+
+Open the terminal
+go down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+unzip Project_data.zip
